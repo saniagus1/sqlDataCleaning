@@ -2,8 +2,7 @@
 Data Cleaning in SQL
 
 Name : Gede Agus Andika Sani
-Date : 17/11/2022
-Data source : https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
+Date : 18/11/2022
 */
 
 SELECT *
