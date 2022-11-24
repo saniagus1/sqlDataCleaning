@@ -1,19 +1,8 @@
---EDA and Visualization of Earthquake in Indonesia 
-
 --Data Cleaning
 --1. find duplicate
 --2. check null in time, latitude, longitude, mag, place
 --3. separate place into place and country
---4. Separate time column into date & time (extract only the hour)
-
-
---Visualization Material
---1. EQ count each region with percentage
---2. EQ count by year
---3. EQ by hour in Indonesia
---4. 
---5. Overall EQ Maps Indonesia
---6. Big EQ Maps Indonesia 
+--4. Separate time column into date & time (extract only the hour) 
 
 --find duplicate from id
 SELECT id, COUNT(*)
