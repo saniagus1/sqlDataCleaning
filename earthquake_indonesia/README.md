@@ -15,3 +15,11 @@
   For detailed method, check its sql file
 
 2. BMKG
+
+### Data Exploration
+1. USGS
+- List All Region and Its Percentage
+- Earthquake by hour in Indonesia
+- Earthquake by year in Indonesia
+- Earthquake by day of the week in Indonesia
+2. BMKG
