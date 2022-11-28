@@ -1,4 +1,4 @@
-# Coming soon
+# Earthquake in Indonesia : A Data Breakdown Perspective
 
 ### Raw data sources
 1. [bmkg data source](https://github.com/kekavigi/repo-gempa/blob/main/katalog_gempa.csv)
